@@ -15,6 +15,8 @@ Player 2(Right paddle):
 - left and right arrows: Horizontal movement
 - up and down arrows: Vertical movement
 
+- Close the application by clickiong the red x icon on the top right of the application
+
 Methods: 
 - Incorporated Enumerators to handle certain situations of the paddle the player controls in game
 - Utilized vectors to control the positioning and movement of the paddles and ball
