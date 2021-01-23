@@ -2,9 +2,9 @@
 Original Arcade Pong Game Recreated in C#
 
 Instructions:
-First download the ping pong folder
-Then Open the file Pong.sln
-After opening the Visual studio file, click the green start button on the top middle of the Visual Studio Application
+- First download the ping pong folder
+- Then Open the file Pong.sln
+- After opening the Visual studio file, click the green start button on the top middle of the Visual Studio Application
 
 Controls: 
 Player 1 (Left paddle): 
@@ -16,8 +16,8 @@ Player 2(Right paddle):
 - up and down arrows: Vertical movement
 
 Methods: 
-Incorporated Enumerators to handle certain situations of the paddle the player controls in game
-Utilized vectors to control the positioning and movement of the paddles and ball
-Incorporated a timer to check detections and movement of objects, as well as to update player score
+- Incorporated Enumerators to handle certain situations of the paddle the player controls in game
+- Utilized vectors to control the positioning and movement of the paddles and ball
+- Incorporated a timer to check detections and movement of objects, as well as to update player score
 
 ![Pong](https://user-images.githubusercontent.com/69814148/105612977-88b0eb80-5d8d-11eb-95c4-5628ac23f813.png)
