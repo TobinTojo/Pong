@@ -5,6 +5,8 @@ Original Arcade Pong Game Recreated in C# <br />
 - First download the ping pong folder
 - Then Open the file Pong.sln
 - After opening the Visual studio file, click the green start button on the top middle of the Visual Studio Application
+__Requirements:__ <br />
+- Any Microsoft Viusal Studio
 
 __Controls:__ <br />
 Player 1 (Left paddle): 
