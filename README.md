@@ -12,7 +12,7 @@ Player 1 (Left paddle):
 - A and D: Horizontal movement
 - W and S: Vertical movement
 
-Player 2(Right paddle):
+Player 2 (Right paddle):
 - left and right arrows: Horizontal movement
 - up and down arrows: Vertical movement
 <br />
