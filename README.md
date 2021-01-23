@@ -1,6 +1,6 @@
 # Pong
 Original Arcade Pong Game Recreated in C#
-
+![Pong](https://user-images.githubusercontent.com/69814148/105612977-88b0eb80-5d8d-11eb-95c4-5628ac23f813.png)
 Instructions:
 First download the ping pong folder
 Then Open the file Pong.sln
