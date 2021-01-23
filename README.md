@@ -5,7 +5,7 @@ __Requirements:__
 - Any Microsoft Viusal Studio  
 
  __Instructions:__
-- First download the ping pong folder
+- First download the repository
 - Then Open the file Pong.sln
 - After opening the Visual studio file, click the green start button on the top middle of the Visual Studio Application
 
