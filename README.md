@@ -7,7 +7,7 @@ Instructions:
 - After opening the Visual studio file, click the green start button on the top middle of the Visual Studio Application
 
 Controls: 
-Player 1 (Left paddle): 
+/nPlayer 1 (Left paddle): 
 - A and D: Horizontal movement
 - W and S: Vertical movement
 
