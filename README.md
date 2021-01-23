@@ -6,15 +6,15 @@ Instructions:
 - Then Open the file Pong.sln
 - After opening the Visual studio file, click the green start button on the top middle of the Visual Studio Application
 
-Controls: 
-/nPlayer 1 (Left paddle): 
+Controls: <br />
+Player 1 (Left paddle): 
 - A and D: Horizontal movement
 - W and S: Vertical movement
 
 Player 2(Right paddle):
 - left and right arrows: Horizontal movement
 - up and down arrows: Vertical movement
-
+<br />
 - Close the application by clickiong the red x icon on the top right of the application
 
 Methods: 
