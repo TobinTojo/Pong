@@ -1,7 +1,7 @@
 # Pong
 Original Arcade Pong Game Recreated in C# <br />
 ![Pong](https://user-images.githubusercontent.com/69814148/105612977-88b0eb80-5d8d-11eb-95c4-5628ac23f813.png)
- __Instructions:__
+ <br /> __Instructions:__
 - First download the ping pong folder
 - Then Open the file Pong.sln
 - After opening the Visual studio file, click the green start button on the top middle of the Visual Studio Application
