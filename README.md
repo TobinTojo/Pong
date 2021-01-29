@@ -22,6 +22,6 @@ Player 2 (Right paddle):
 
 __Methods:__ 
 - Incorporated Enumerators to handle certain situations of the paddle the player controls in game
-- Utilized vectors to control the positioning and movement of the paddles and ball
+- Utilized vectors to control the positioning and movement of the paddles and the ball
 - Incorporated a timer to check detections and movement of objects, as well as to update player score
 
